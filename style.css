@@ -1,0 +1,26 @@
+.base{
+
+    margin-top: 60px;
+    margin-left:25px; 
+
+}
+
+.col{
+    display: flex;
+}
+
+.container{
+margin-top: 50px;
+
+
+}
+.estructura{
+width: 250px;
+height: 400px;
+
+}
+.piedepagina{
+
+padding: 50px;
+float: right;
+}
